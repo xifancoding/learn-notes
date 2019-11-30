@@ -6,7 +6,7 @@ Start `fs-extra` in your project:
 
 Steps | commonds
 --- | --- |
-   `install ts` | *npm install --save-dev typescript ts-node*
-   `install fs-extra and path` | *npm install --save fs-extra path @types/fs-extra*
+   `install ts` | *npm install typescript ts-node -S*
+   `install fs-extra and path` | *npm install fs-extra path @types/fs-extra -D*
 
 to be continue
