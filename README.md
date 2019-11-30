@@ -2,6 +2,8 @@
 
 notes in the learning progress.
 
+[**Demo**](https://github.com/xifancoding/learn-source) **Guides**
+
 - [**Github**](#github)
   - [Github-Desktop](./git/github-desktop.md)
 - [**VSCode**](#vscode)

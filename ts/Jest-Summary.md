@@ -45,7 +45,7 @@ nmp test
 
 Building your test files:
 
-1. all the files in the folder `"${workspaceFolder}/__test__/*"`.
+1. all the files in the folder `"${workspaceFolder}/__tests__/*"`.
 2. all the files names `"${name}.test|spec.js|ts"`.
 
 [...more](https://jestjs.io/docs/en/getting-started)
