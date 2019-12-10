@@ -13,4 +13,5 @@ notes in the learning progress.
 - [**Typescript**](#typescript)
   - [Jest Summary](./ts/Jest-Summary.md)
   - [fs-extra Summary](./ts/fs-extra-Summary.md)
+  - [regexp Summary](./ts/RegExp-Summary.md)
 - [**egret**](#egret)
