@@ -14,4 +14,5 @@ notes in the learning progress.
   - [Jest Summary](./ts/Jest-Summary.md)
   - [fs-extra Summary](./ts/fs-extra-Summary.md)
   - [regexp Summary](./ts/RegExp-Summary.md)
+  - [vscode plugins](./ts/vscode-plugins.md)
 - [**egret**](#egret)
