@@ -15,4 +15,5 @@ notes in the learning progress.
   - [fs-extra Summary](./ts/fs-extra-Summary.md)
   - [regexp Summary](./ts/RegExp-Summary.md)
   - [vscode Summary](./ts/vscode-Summary.md)
+  - [advanced type](./ts/Advanced-Type.md)
 - [**egret**](#egret)
