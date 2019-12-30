@@ -54,3 +54,11 @@ type H = Omit1<A, "a">;     //H = { b: number; c: boolean; };
 ```
 
 ...to be continue;
+
+## `infer:`
+
+```typescript
+
+
+
+```

@@ -5,7 +5,7 @@ notes in the learning progress.
 [**Demo**](https://github.com/xifancoding/learn-source) **Guides**
 
 - [**Github**](#github)
-  - [Github-Desktop](./git/github-desktop.md)
+  - [Github-Desktop](./base/github-desktop.md)
 - [**VSCode**](#vscode)
 - [**Node**](#node)
   - [npm](./node/npm.md)
@@ -16,4 +16,5 @@ notes in the learning progress.
   - [regexp Summary](./ts/RegExp-Summary.md)
   - [vscode Summary](./ts/vscode-Summary.md)
   - [advanced type](./ts/Advanced-Type.md)
+  - [functional programming](./ts/functional-programming.md)
 - [**egret**](#egret)
